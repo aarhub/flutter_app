@@ -1,4 +1,4 @@
 # Flutter App
 
-A new Flutter application.
+A Flutter Demo application.
 
